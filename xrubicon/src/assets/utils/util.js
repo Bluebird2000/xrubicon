@@ -1,0 +1,25 @@
+const util = {
+    white: '#fff',
+    grey: '#F4F6FB',
+    green: '#005f00',
+    color_primary: '#e5f2e5',
+    color_secondary: '#E527A1',
+    color_success: '#3AD29F',
+    poppins_regular: 'Poppins-Regular',
+    open_sans_bold: 'OpenSans-Bold',
+    nunito_regular: 'Nunito-Regular',
+    nunito_bold: 'Nunito-Bold',
+    bd_color: '#CEA0FF',
+    text_color: '#595959',
+    text_color_secondary: '#626262',
+    text_color_primary: '#343434',
+    sm_1_fontsize: 12,
+    sm_fontsize: 14,
+    md_fontsize: 16,
+    lg_fontsize: 18,
+    ff_regular: '',
+    ff_medium: '',
+    ff_bold: '',
+}
+
+export default util;
